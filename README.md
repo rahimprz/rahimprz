@@ -28,7 +28,7 @@
 </table>
 </p>
 
-
-
-[![Alt text](https://img.youtube.com/vi/rRPQs_kM_nw/0.jpg)](https://www.youtube.com/watch?v=rRPQs_kM_nw)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=rRPQs_kM_nw"><img src="https://img.youtube.com/vi/rRPQs_kM_nw/0.jpg" alt="PolishCow"></a>
+</div>
 
