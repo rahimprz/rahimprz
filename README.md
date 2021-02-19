@@ -3,6 +3,9 @@
 </p>
 
 <h2 align="center">This is me :)</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
+</p>
 <a href="https://github.com/Bennitenni111">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Bennitenni111" alt="Profile Views Count">
