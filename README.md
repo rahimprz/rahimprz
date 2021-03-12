@@ -14,7 +14,9 @@
     <img src="https://komarev.com/ghpvc/?username=Bennitenni111" alt="Profile Views Count">
   </p>
 </a>
-
+<a>
+<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner3" alt="Discord Banner 3"/>
+  </a>
 <p align="center">
 <table>
   <tr>
