@@ -14,8 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=Bennitenni111" alt="Profile Views Count">
   </p>
   <p align="center">
-    <b href="https://anonix.xyz/discord">Click me to join my discord</b>
-    <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+   <b><a href="https://anonix.xyz/discord">Click me to join my discord</a></b>
   </p>
 </a>
 <a>
