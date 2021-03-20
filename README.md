@@ -15,7 +15,7 @@
   </p>
 </a>
 <a>
-<img src="https://discordapp.com/api/guilds/717426451225247824/widget.png?style=banner1" alt="Discord Banner 1"/>
+<img src="https://discord.com/api/guilds/804295436008685609/widget.png?style=banner2" alt="Anonix"/>
   </a>
 <p align="center">
 <table>
