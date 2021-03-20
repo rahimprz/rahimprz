@@ -15,7 +15,8 @@
   </p>
 </a>
 <a>
-<img src="https://discord.com/api/guilds/804295436008685609/widget.png?style=banner2" alt="Anonix"/>
+<center><img src="https://discord.com/api/guilds/804295436008685609/widget.png?style=banner2" alt="Anonix"/></center>
+  <center><b>Discord Invite: https://anonix.xyz/discord</b>
   </a>
 <p align="center">
 <table>
