@@ -15,6 +15,7 @@
   </p>
   <p align="center">
     <b href="https://anonix.xyz/discord">Click me to join my discord</b>
+    <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
   </p>
 </a>
 <a>
