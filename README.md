@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
 </p>
 
-<h2 align="center">This is me :)</h2>
+<h2 align="center">This is me :), Checkout this, https://logicguy1.github.io/ </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
 </p>
