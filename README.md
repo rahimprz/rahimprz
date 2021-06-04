@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
 </p>
 
-<h2 align="center">Check out my friend `logicguy1` https://logicguy1.github.io/ </h2>
+<p align="center">Check my friend out. [logicguy1](https://github.com/logicguy1)</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
 </p>
