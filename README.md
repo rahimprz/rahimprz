@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/57082740746fb9895f9277d8/1550236446320-MVK5XWVOI54W2FV7T8E2/ke17ZwdGBToddI8pDm48kHqYAt3UgyjNg-0dlUc4K5hZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7UnCxNA8dHvmd7460Z7fbKEmJ2gL2qv94i4UWS2y7YfwkXCxk_sn2atIO3dASbw33Q/2-14-19+Image.png" />
-  </p>
-<p align="center">
   <img src="http://cdn.lowgif.com/full/f469ea7b69100f02-.gif" />
   </p>
 <p align="center">
