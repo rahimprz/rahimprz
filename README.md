@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
 </p>
 
-<p align="center">Check my friend out. [logicguy1](https://github.com/logicguy1)</p>
+<p align="center">Hey fella, welcome to my github profile.</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
 </p>
