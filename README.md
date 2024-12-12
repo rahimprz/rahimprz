@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://anonix.xyz/discord](https://discord.gg/JjpewHxw6X)" target="_blank" style="text-decoration:none;">
+  <a href="https://discord.gg/JjpewHxw6X" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Join%20my%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
