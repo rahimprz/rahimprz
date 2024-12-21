@@ -5,8 +5,8 @@
 <h1 align="center">Hi there, I'm Muhammad Raahim!</h1>
 
 <p align="center">
-  <b>Frontend Developer:</b> HTML, CSS, JavaScript, Bootstrap<br>
-  <b>Backend Developer:</b> PHP, Python, Node.js
+  <b>Frontend Developer:</b> HTML, CSS, JavaScript, React, Bootstrap, WordPress<br>
+  <b>Backend Developer:</b> Node.js, Python, PHP, SQL
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 
 <h2 align="center">About Me</h2>
 <ul>
-  <li><b>Frontend:</b> I create stunning, responsive, and interactive user interfaces.</li>
-  <li><b>Backend:</b> I develop robust APIs and server-side logic to power your applications.</li>
-  <li><b>Problem Solver:</b> Debugging and optimization are my superpowers.</li>
+  <li><b>Frontend:</b> I build responsive, modern, and user-friendly interfaces using HTML, CSS, JavaScript, and React.</li>
+  <li><b>Backend:</b> I develop efficient server-side applications and APIs using Node.js, Python, PHP, and SQL databases.</li>
+  <li><b>WordPress & E-commerce:</b> I create and customize WordPress sites, including fully functional e-commerce stores.</li>
 </ul>
 
 <h2 align="center">Skills</h2>
@@ -38,13 +38,19 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/><br>HTML5</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/><br>CSS3</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"/><br>Bootstrap</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/><br>React</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px"/><br>Bootstrap</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/><br>PHP</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/><br>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50px"/><br>WordPress</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/><br>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/><br>VS Code</td>
   </tr>
 </table>
 
