@@ -2,7 +2,11 @@
   <img src="https://cdn.dribbble.com/users/108183/screenshots/6057490/hero-image-animation.gif" alt="Welcome Animation"/>
 </p>
 
-<h1 align="center">Hi there, I'm Muhammad Raahim!</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Muhammad+Raahim;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <b>Frontend Developer:</b> HTML, CSS, JavaScript, React, Bootstrap, WordPress<br>
