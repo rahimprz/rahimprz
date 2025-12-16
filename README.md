@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=Bennitenni111" alt="Profile Views Count">
 </p>
 
-
+---
 
 <h2 align="center">About Me</h2>
 <ul>
@@ -59,7 +59,15 @@
   <a href="https://www.linkedin.com/in/mhmdrahim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-ashen.vercel.app?user=rahimprz" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Bennitenni111">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimprz" alt="GitHub Streak" />
+</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimprz&layout=compact&theme=dark&langs_count=8"/>
 </p>
@@ -74,12 +82,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-
-  <a href="https://github.com/Bennitenni111" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
 </p>
 
 <p align="center">
