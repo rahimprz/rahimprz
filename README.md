@@ -61,9 +61,7 @@
   </a>
 
   ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimprz&theme=dark" alt="GitHub Streak"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rahimprz)](https://git.io/streak-stats)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimprz&layout=compact&theme=dark&langs_count=8"/>
