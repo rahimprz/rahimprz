@@ -56,7 +56,7 @@
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mhmdraahim" target="_blank">
+  <a href="https://www.linkedin.com/in/mhmdrahim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
