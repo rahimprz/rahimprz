@@ -59,9 +59,7 @@
   <a href="https://www.linkedin.com/in/mhmdrahim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rahimprz)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-ashen.vercel.app?user=rahimprz)](https://git.io/streak-stats)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimprz&layout=compact&theme=dark&langs_count=8"/>
