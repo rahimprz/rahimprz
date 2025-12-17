@@ -64,15 +64,12 @@
   </a>
 </p>
 
-<center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-ashen.vercel.app?user=rahimprz" alt="GitHub Streak" /></a></center>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimprz&layout=compact&theme=dark&langs_count=8"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahimprz&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahimprz&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
