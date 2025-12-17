@@ -20,7 +20,7 @@
 <p align="center">Welcome to my GitHub profile! I create seamless and dynamic web applications with a strong focus on modern design and performance.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bennitenni111" alt="Profile Views Count">
+  <img src="https://komarev.com/ghpvc/?username=rahimprz" alt="Profile Views Count">
 </p>
 
 ---
@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/mhmdrahim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Bennitenni111">
+  <a href="https://github.com/rahimprz">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
