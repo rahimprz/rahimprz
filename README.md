@@ -64,7 +64,7 @@
   </a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-ashen.vercel.app?user=rahimprz&background=EB545400" alt="GitHub Streak" /></a>
+<center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-ashen.vercel.app?user=rahimprz" alt="GitHub Streak" /></a></center>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimprz&layout=compact&theme=dark&langs_count=8"/>
