@@ -53,15 +53,12 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/><br>VS Code</td>
   </tr>
 </table>
-<div align="center">
-  <div class="contra-hire-me-button"
-       data-analyticsUserId="3fba7ddb-9c71-48d2-99b1-93a638254b50"
-       data-theme="light"
-       data-username="muhammad_raahim_svu3rbml">
-  </div>
-</div>
 
-<script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+<p align="center">
+  <a href="https://contra.com/muhammad_raahim_svu3rbml" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Contra-111827?style=for-the-badge&logo=handshake&logoColor=white" />
+  </a>
+</p>
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
