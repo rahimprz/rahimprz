@@ -56,9 +56,12 @@
 
 <p align="center">
   <a href="https://contra.com/muhammad_raahim_svu3rbml" target="_blank">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Contra-111827?style=for-the-badge&logo=handshake&logoColor=white" />
+    <img src="https://github.com/rahimprz/rahimprz/blob/main/hiremeoncontra-light.png?raw=true" 
+         alt="Hire Me on Contra"
+         style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.2);" />
   </a>
 </p>
+
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
