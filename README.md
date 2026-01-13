@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey,+I'm+Mhmd.+Raahim;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
+<p align="center">Welcome to my GitHub profile! I create seamless and dynamic web applications with a strong focus on modern design and performance.</p>
 
 <p align="center">
   <b>Frontend Developer:</b> HTML, CSS, JavaScript, React, Bootstrap, WordPress<br>
@@ -16,8 +17,6 @@
 <p align="center">
   <img src="https://github.com/rahimprz/rahimprz/blob/main/ezgif-460c327916441c70.gif?raw=true" alt="Ethereal Line"/>
 </p>
-
-<p align="center">Welcome to my GitHub profile! I create seamless and dynamic web applications with a strong focus on modern design and performance.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahimprz" alt="Profile Views Count">
