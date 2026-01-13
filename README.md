@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" alt="Rainbow Line"/>
+  <img src="https://github.com/rahimprz/rahimprz/blob/main/ezgif-460c327916441c70.gif?raw=true" alt="Ethereal Line"/>
 </p>
 
 <p align="center">Welcome to my GitHub profile! I create seamless and dynamic web applications with a strong focus on modern design and performance.</p>
